@@ -1,9 +1,9 @@
 <!-- implement your code here -->
-<section>
-  <div>
-    <h2>{{ product.title }}</h2>
-  </div>
-</section>
+{% case block.type %}
+  {%- when 'story' -%}
+  <div>{{ product.title }}</div>
+{% endcase %}
+
 {% schema %}
 {
   "name": "Stories",
