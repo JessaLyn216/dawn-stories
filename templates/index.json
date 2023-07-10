@@ -187,9 +187,10 @@
         "778b7651-a301-4731-89e3-f05c7c193482"
       ],
       "custom_css": [
-        ".stories {overflow-x: auto; max-height: 150px; margin: 0 20px;}",
+        ".stories {overflow-x: auto; display: flex;}",
         ".story {display: inline-block;}",
-        ".content {display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 20px;}",
+        ".content {display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 20px 15px;}",
+        "p {text-align: center; line-height: 18px;}",
         ".image-cont {height: 72px; width: 72px; overflow: hidden; border-radius: 100px; display: flex; justify-content: center;}",
         "img {height: 100%;}"
       ],
