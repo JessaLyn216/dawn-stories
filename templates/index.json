@@ -23,17 +23,175 @@
           "type": "story",
           "settings": {
             "title": "Black Leather Bag",
-            "story_link": ""
+            "story_image": "shopify:\/\/shop_images\/black-bag-over-the-shoulder_925x_7e964fb3-0286-4a0a-a498-423138eea381.jpg",
+            "story_link": "shopify:\/\/products\/black-leather-bag"
+          }
+        },
+        "4d4ba8b0-6e3d-4714-a871-d37ce9dfa0e8": {
+          "type": "story",
+          "settings": {
+            "title": "Blue Silk Tuxedo",
+            "story_image": "shopify:\/\/shop_images\/man-adjusts-blue-tuxedo-bowtie_925x_70934415-e54e-46d3-a58e-cfbfed6ca12c.jpg",
+            "story_link": "shopify:\/\/products\/blue-silk-tuxedo"
+          }
+        },
+        "d9c75095-01a5-49a4-84e1-488313ad15ba": {
+          "type": "story",
+          "settings": {
+            "title": "Chequered Red Shirt",
+            "story_image": "shopify:\/\/shop_images\/red-plaid-shirt_925x_6f6f7c9f-e667-487c-9150-6a1c59c1bcd4.jpg",
+            "story_link": "shopify:\/\/products\/chequered-red-shirt"
+          }
+        },
+        "4f705780-6005-46a9-bf22-500f0a2abfd7": {
+          "type": "story",
+          "settings": {
+            "title": "Classic Leather Jacket",
+            "story_image": "shopify:\/\/shop_images\/leather-jacket-and-tea_925x_904f7859-a6c9-4a49-ae52-b7e1d63490fa.jpg",
+            "story_link": "shopify:\/\/products\/classic-leather-jacket"
+          }
+        },
+        "1545a435-2942-4cd2-91f9-0e06a03941bf": {
+          "type": "story",
+          "settings": {
+            "title": "Dark Denim Top",
+            "story_image": "shopify:\/\/shop_images\/young-female-models-denim_925x_d91b4428-3ae8-4136-8abc-5d0e45d2101b.jpg",
+            "story_link": "shopify:\/\/products\/dark-denim-top"
+          }
+        },
+        "2df7fa15-5d39-4156-92d7-30beded1b37c": {
+          "type": "story",
+          "settings": {
+            "title": "Long Sleeve Cotton Top",
+            "story_image": "shopify:\/\/shop_images\/woman-outside-brownstone_925x_0b763f81-2181-4c39-9580-ec1690de10ce.jpg",
+            "story_link": "shopify:\/\/products\/longsleeve-cotton-top"
+          }
+        },
+        "d22b7a25-ff04-4a78-9555-5da0c0381709": {
+          "type": "story",
+          "settings": {
+            "title": "Navy Sports Jacket",
+            "story_image": "shopify:\/\/shop_images\/mens-fall-fashion-jacket_925x_b5a69c92-8ed5-4583-bd18-b322256fde08.jpg",
+            "story_link": "shopify:\/\/products\/navy-sport-jacket"
+          }
+        },
+        "4189791f-9da8-40ff-b1c9-597b56e4ff00": {
+          "type": "story",
+          "settings": {
+            "title": "Floral White Top",
+            "story_image": "shopify:\/\/shop_images\/city-woman-fashion_925x_2x_be7ccea4-5293-4b79-8d97-52d51e6dae48.jpg",
+            "story_link": "shopify:\/\/products\/floral-white-top"
+          }
+        },
+        "00ded061-cf18-4e15-875e-f424ae59b1f8": {
+          "type": "story",
+          "settings": {
+            "title": "Olive Green Jacket",
+            "story_image": "shopify:\/\/shop_images\/urban-fashion_925x_cdb9dcb9-6fcb-4926-af0e-65e83eaf77aa.jpg",
+            "story_link": "shopify:\/\/products\/olive-green-jacket"
+          }
+        },
+        "deba1ef1-978f-435c-8c0d-d3bd89774b06": {
+          "type": "story",
+          "settings": {
+            "title": "Classic Varsity Top",
+            "story_image": "shopify:\/\/shop_images\/casual-fashion-woman_925x_3f460074-1674-4c71-b897-f46925421be6.jpg",
+            "story_link": "shopify:\/\/products\/classic-varsity-top"
+          }
+        },
+        "f6a765b1-2f4c-4d00-b518-77b798c80fb1": {
+          "type": "story",
+          "settings": {
+            "title": "Red Sports Tee",
+            "story_image": "shopify:\/\/shop_images\/womens-red-t-shirt_925x_e46fe3cc-bb88-407b-85cb-7db8e29ee5de.jpg",
+            "story_link": "shopify:\/\/products\/red-sports-tee"
+          }
+        },
+        "da31c96b-d757-4836-9c8d-ce981f49c104": {
+          "type": "story",
+          "settings": {
+            "title": "Silk Summer Top",
+            "story_image": "shopify:\/\/shop_images\/young-hip-woman-at-carnival_925x_256e9b98-9a5b-4481-a77e-d87bd3714e88.jpg",
+            "story_link": "shopify:\/\/products\/silk-summer-top"
+          }
+        },
+        "7da52a6e-6ad6-420c-ba84-e8476ccd894e": {
+          "type": "story",
+          "settings": {
+            "title": "Soft Winter Jacket",
+            "story_image": "shopify:\/\/shop_images\/smiling-woman-on-snowy-afternoon_925x_44c2cb0a-2a25-4fd1-b85f-f1d4e1f07404.jpg",
+            "story_link": "shopify:\/\/products\/dark-winter-jacket"
+          }
+        },
+        "d2d2a55d-6dca-4e87-95a1-eaa9519f0b87": {
+          "type": "story",
+          "settings": {
+            "title": "Striped Silk Blouse",
+            "story_image": "shopify:\/\/shop_images\/striped-blouse-fashion_925x_bf4846ce-53c6-4602-86c5-ba3d1e1a147b.jpg",
+            "story_link": "shopify:\/\/products\/striped-silk-blouse"
+          }
+        },
+        "93d585ba-c7f1-43a9-a471-0879514f6340": {
+          "type": "story",
+          "settings": {
+            "title": "Striped Skirt and Top",
+            "story_image": "shopify:\/\/shop_images\/woman-in-the-city_925x_0759f31c-bc55-4941-a2dd-192de30f60fb.jpg",
+            "story_link": "shopify:\/\/products\/striped-skirt-and-top"
+          }
+        },
+        "beacc949-448c-48af-a4e2-fa539eb3001f": {
+          "type": "story",
+          "settings": {
+            "title": "White Cotton Shirt",
+            "story_image": "shopify:\/\/shop_images\/smiling-woman-poses_925x_5b2d2228-e0c2-469a-aee5-d1332ac651f9.jpg",
+            "story_link": "shopify:\/\/products\/white-cotton-shirt"
+          }
+        },
+        "44b15dee-8e78-4fcd-b7cd-6800be0614a9": {
+          "type": "story",
+          "settings": {
+            "title": "Yellow Wool Jumper",
+            "story_image": "shopify:\/\/shop_images\/autumn-photographer-taking-picture_925x_498d7793-4bbe-4603-b751-c8a76a67a491.jpg",
+            "story_link": "shopify:\/\/products\/yellow-wool-jumper"
+          }
+        },
+        "778b7651-a301-4731-89e3-f05c7c193482": {
+          "type": "story",
+          "settings": {
+            "title": "Zipped Jacket",
+            "story_image": "shopify:\/\/shop_images\/menswear-blue-zip-up-jacket_925x_8a7ab42d-ff0a-4649-8572-996daa26819f.jpg",
+            "story_link": "shopify:\/\/products\/zipped-jacket"
           }
         }
       },
       "block_order": [
         "template--14945564426294__bd3fb3c7-e639-4bce-ae64-42245e1e73d6-1686953954d3f49eac-0",
         "c6e8a26a-7eaf-4095-a25e-5047550ccf8f",
-        "5f1a0930-12cd-4ea8-8c48-ad1d45da425a"
+        "5f1a0930-12cd-4ea8-8c48-ad1d45da425a",
+        "4d4ba8b0-6e3d-4714-a871-d37ce9dfa0e8",
+        "d9c75095-01a5-49a4-84e1-488313ad15ba",
+        "4f705780-6005-46a9-bf22-500f0a2abfd7",
+        "1545a435-2942-4cd2-91f9-0e06a03941bf",
+        "2df7fa15-5d39-4156-92d7-30beded1b37c",
+        "d22b7a25-ff04-4a78-9555-5da0c0381709",
+        "4189791f-9da8-40ff-b1c9-597b56e4ff00",
+        "00ded061-cf18-4e15-875e-f424ae59b1f8",
+        "deba1ef1-978f-435c-8c0d-d3bd89774b06",
+        "f6a765b1-2f4c-4d00-b518-77b798c80fb1",
+        "da31c96b-d757-4836-9c8d-ce981f49c104",
+        "7da52a6e-6ad6-420c-ba84-e8476ccd894e",
+        "d2d2a55d-6dca-4e87-95a1-eaa9519f0b87",
+        "93d585ba-c7f1-43a9-a471-0879514f6340",
+        "beacc949-448c-48af-a4e2-fa539eb3001f",
+        "44b15dee-8e78-4fcd-b7cd-6800be0614a9",
+        "778b7651-a301-4731-89e3-f05c7c193482"
       ],
       "custom_css": [
-
+        ".stories {overflow: auto; max-height: 150px;}",
+        ".story {display: inline-block;}",
+        ".content {display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 20px;}",
+        ".image-cont {height: 72px; width: 72px; overflow: hidden; border-radius: 100px; display: flex; justify-content: center;}",
+        "img {height: 100%;}"
       ],
       "settings": {
       }
