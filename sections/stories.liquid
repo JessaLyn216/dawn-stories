@@ -3,7 +3,9 @@
   {%- case block.type -%}
     {%- when 'story' -%}
       <section>
-        <img class="related-product__image" src="{{ block.settings.story_image | img_url: '500x' }}" alt="{{ block.settings.title }}">
+         <div class="image-cont">
+           <img class="related-product__image" src="{{ block.settings.story_image | img_url: '500x' }}" alt="{{ block.settings.title }}">
+         </div>
          <p>{{ block.settings.title }}</p>
       </section>    
   {%- endcase -%}
