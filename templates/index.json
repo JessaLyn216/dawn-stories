@@ -191,7 +191,7 @@
         ".story {display: inline-block;}",
         ".content {display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 20px 15px;}",
         "p {text-align: center; line-height: 18px;}",
-        ".image-cont {height: 72px; width: 72px; overflow: hidden; border-radius: 100px; display: flex; justify-content: center;}",
+        ".image-cont {height: 72px; width: 72px; overflow: hidden; border-radius: 100px; display: flex; justify-content: center; border: 1px solid lightgrey;}",
         "img {height: 100%;}"
       ],
       "settings": {
