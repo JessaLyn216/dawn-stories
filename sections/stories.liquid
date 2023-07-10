@@ -6,7 +6,7 @@
   {%- case block.type -%}
     {%- when 'story' -%}
       <div class="test">{{ block.settings.title }}</div>
-      <h1>{{ block.settings.story_image }}</h1>
+      <img class="related-product__image" src="{{ block.settings.story_image | img_url: '500x' }}" alt="{{ block.settings.title }}">
   {%- endcase -%}
 {%- endfor -%}
 
