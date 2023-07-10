@@ -5,20 +5,42 @@
       "blocks": {
         "template--14945564426294__bd3fb3c7-e639-4bce-ae64-42245e1e73d6-1686953954d3f49eac-0": {
           "type": "story",
+          "disabled": true,
           "settings": {
             "title": "Shopping Link",
             "story_link": "https:\/\/shopping.google.com\/"
           }
+        },
+        "c6e8a26a-7eaf-4095-a25e-5047550ccf8f": {
+          "type": "story",
+          "settings": {
+            "title": "LED High Tops",
+            "story_image": "shopify:\/\/shop_images\/putting-on-your-shoes_925x_819792e1-0ae4-4f06-8fc9-f8b58c1b13fd.jpg",
+            "story_link": "shopify:\/\/products\/led-high-tops"
+          }
+        },
+        "5f1a0930-12cd-4ea8-8c48-ad1d45da425a": {
+          "type": "story",
+          "settings": {
+            "title": "Black Leather Bag",
+            "story_link": ""
+          }
         }
       },
       "block_order": [
-        "template--14945564426294__bd3fb3c7-e639-4bce-ae64-42245e1e73d6-1686953954d3f49eac-0"
+        "template--14945564426294__bd3fb3c7-e639-4bce-ae64-42245e1e73d6-1686953954d3f49eac-0",
+        "c6e8a26a-7eaf-4095-a25e-5047550ccf8f",
+        "5f1a0930-12cd-4ea8-8c48-ad1d45da425a"
+      ],
+      "custom_css": [
+
       ],
       "settings": {
       }
     },
     "image_banner": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -66,6 +88,7 @@
     },
     "rich_text": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -96,6 +119,7 @@
     },
     "video": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
