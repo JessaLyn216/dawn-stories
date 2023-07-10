@@ -5,8 +5,10 @@
 {%- for block in section.blocks -%}
   {%- case block.type -%}
     {%- when 'story' -%}
-      <div class="test">{{ block.settings.title }}</div>
-      <img class="related-product__image" src="{{ block.settings.story_image | img_url: '500x' }}" alt="{{ block.settings.title }}">
+      <section>
+         <div class="test">{{ block.settings.title }}</div>
+        <img class="related-product__image" src="{{ block.settings.story_image | img_url: '500x' }}" alt="{{ block.settings.title }}">
+      </section>    
   {%- endcase -%}
 {%- endfor -%}
 
