@@ -4,6 +4,7 @@
     {%- when 'story' -%}
     {%- for product in collection.products -%}
        <div>{{ block.settings.title }}</div>
+      <h1>{{ product.title }}</h1>
     {%- endfor -%}
   {%- endcase -%}
 {%- endfor -%}
