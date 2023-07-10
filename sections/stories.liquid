@@ -1,4 +1,6 @@
 <!-- implement your code here -->
+{%- case block.type -%}
+{%- when 'related_products' -%}
 {%- for product in collection.products -%}
     <li>
       <a class="product-card" href="{{ product.url | within: collection }}">
@@ -21,6 +23,8 @@
       </a>
     </li>
 {%- endfor -%}
+{%- endcase -%}
+
 
 {% schema %}
 {
