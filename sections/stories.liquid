@@ -1,6 +1,5 @@
 <!-- implement your code here -->
 {%- for block in section.blocks -%}
-  <section>
   {%- case block.type -%}
     {%- when 'story' -%}
          <div class="image-cont">
@@ -10,7 +9,6 @@
            </div>
          <p>{{ block.settings.title }}</p>
   {%- endcase -%}
-  </section>
 {%- endfor -%}
 
 
