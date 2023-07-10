@@ -1,5 +1,5 @@
 <!-- implement your code here -->
-<section class="stories">
+<section id="dawn-stories" class="stories">
 {%- for block in section.blocks -%}
   {%- case block.type -%}
     {%- when 'story' -%}
@@ -17,11 +17,13 @@
 {%- endfor -%}
 </section>
 
-{% stylesheet %}
-.stories {
-  overflow-x: auto;
-}
-{% endstylesheet %}
+{% javascript %}
+  const container = document.getElementById("dawn-stories");
+
+  if(window.orientation <= 1) {
+    container.style.display = "none";
+  }
+{% endjavascript %}
 
 {% schema %}
 {
