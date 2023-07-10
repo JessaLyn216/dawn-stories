@@ -235,6 +235,16 @@
           font-size: 1.6rem;
         }
       }
+
+      #dawn-stories {
+          display: none;
+      }
+      
+      @media (min-width: 749px){
+        #dawn-stories{
+          display: block;
+        }
+      }
     {% endstyle %}
 
     {{ 'base.css' | asset_url | stylesheet_tag }}
