@@ -2,7 +2,7 @@
 {%- for block in section.blocks -%}
   {%- case block.type -%}
     {%- when 'story' -%}
-        <div class="{{ block.type }}">
+        <div class="story">
          <div class="image-cont">
            <a href="{{ block.settings.story_link }}">
              <img class="related-product__image" src="{{ block.settings.story_image | img_url: '500x' }}" alt="{{ block.settings.title }}">
