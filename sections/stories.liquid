@@ -1,10 +1,12 @@
 <!-- implement your code here -->
+{%- for block in section.blocks -%}
 {%- case block.type -%}
 {%- when 'related_products' -%}
 {%- for product in collection.products -%}
    <div>{{ block.settings.title }}</div>
 {%- endfor -%}
 {%- endcase -%}
+{%- endfor -%}
 
 
 {% schema %}
