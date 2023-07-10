@@ -1,8 +1,14 @@
 <!-- implement your code here -->
-{% case block.type %}
-  {%- when 'story' -%}
-  <div>Hannah</div>
-{% endcase %}
+{% for block in section.blocks %}
+  {% case block.type %}
+    {% when 'story' %}
+      <div class="slide" {{ block.shopify_attributes }}>
+        {{ block.settings.image | image_url: width: 2048 | image_tag }}
+      </div>
+    ...
+  {% endcase %}
+{% endfor %}
+
 {% schema %}
 {
   "name": "Stories",
