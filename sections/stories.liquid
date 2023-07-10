@@ -1,8 +1,11 @@
 <!-- implement your code here -->
+.test {
+  background-color: pink;
+}
 {%- for block in section.blocks -%}
   {%- case block.type -%}
     {%- when 'story' -%}
-      <div>{{ block.settings.title }}</div>
+      <div class="test">{{ block.settings.title }}</div>
       <h1>{{ block.settings.story_image }}</h1>
   {%- endcase -%}
 {%- endfor -%}
