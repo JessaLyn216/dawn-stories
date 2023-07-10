@@ -1,5 +1,5 @@
 <!-- implement your code here -->
-<section class="hey">
+<section class="stories">
 {%- for block in section.blocks -%}
   {%- case block.type -%}
     {%- when 'story' -%}
@@ -18,7 +18,9 @@
 </section>
 
 {% stylesheet %}
-
+.stories {
+  overflow-x: auto;
+}
 {% endstylesheet %}
 
 {% schema %}
