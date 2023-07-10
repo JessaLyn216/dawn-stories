@@ -1,13 +1,7 @@
 <!-- implement your code here -->
-{% for block in section.blocks %}
-  {% case block.type %}
-    {% when 'story' %}
-      <div class="slide" {{ block.shopify_attributes }}>
-        {{ block.settings.image | image_url: width: 2048 | image_tag }}
-      </div>
-    ...
-  {% endcase %}
-{% endfor %}
+{%- for product in collection.products -%}
+  <div>{{ product.title }}</div>
+{%- endfor -%}
 
 {% schema %}
 {
