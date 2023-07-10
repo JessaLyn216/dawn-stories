@@ -1,16 +1,16 @@
 <!-- implement your code here -->
 {%- for block in section.blocks -%}
+  <section>
   {%- case block.type -%}
     {%- when 'story' -%}
-      <section>
          <div class="image-cont">
            <a href="{{ block.settings.story_link }}">
              <img class="related-product__image" src="{{ block.settings.story_image | img_url: '500x' }}" alt="{{ block.settings.title }}">
            </a>
            </div>
          <p>{{ block.settings.title }}</p>
-      </section>    
   {%- endcase -%}
+  </section>
 {%- endfor -%}
 
 
