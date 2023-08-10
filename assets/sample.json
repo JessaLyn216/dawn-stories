@@ -1,0 +1,19 @@
+{
+  "Products": [
+    {
+      "productid": "123",
+      "productname": "Product 1",
+      "quantity": "1"
+    },
+    {
+      "productid": "123",
+      "productname": "Product 1",
+      "quantity": "1"
+    },
+    {
+      "productid": "123",
+      "productname": "Product 1",
+      "quantity": "1"
+    }
+  ]
+}
