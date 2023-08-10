@@ -95,12 +95,12 @@
 </div>
 
 <script>
-  function load() {
+ function load() {
     const sample = {{ 'sample.json' | asset_url }};
-
-    console.log(sample);
+    fetch(sample)
+      .then(response => response.json())
+      .then(json => console.log(JSON.stringify(json)));
   }
-
   document.addEventListener('DOMContentLoaded', () => {
     load();
   }, false);
