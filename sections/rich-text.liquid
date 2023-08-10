@@ -95,9 +95,15 @@
 </div>
 
 <script>
-  const sample = {{ 'sample.json' | asset_url }};
+  function load() {
+    const sample = {{ 'sample.json' | asset_url }};
 
-        console.log(sample);
+    console.log(sample);
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    load();
+  }, false);
 </script>
 
 {% schema %}
