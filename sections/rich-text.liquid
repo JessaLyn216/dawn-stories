@@ -96,7 +96,7 @@
 
 <script>
   function load() {
-    fetch({{ 'sample.json' | asset_url }})
+    fetch('{{ 'sample.json' | asset_url }}')
       .then(response => response.json())
       .then(json => console.log(JSON.stringify(json)));
   }
